@@ -50,8 +50,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" alt="GitHub Stats" />
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhobhai943&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ### 🎮 Fun Facts
@@ -84,7 +92,7 @@
 
 ---
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" />
+    <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square&label=Profile+Views" />
     <br/>
     <sub>🚀 <strong>"Code is like humor. When you have to explain it, it's bad."</strong> - Cory House</sub>
 </div>
