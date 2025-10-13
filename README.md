@@ -92,7 +92,7 @@
 
 ---
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square&label=Profile+Views&exclude=self" />
+    <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square&label=Profile+Views&exclude=subhobhai943" />
     <br/>
     <sub>🚀 <strong>"Code is like humor. When you have to explain it, it's bad."</strong> - Cory House</sub>
 </div>
