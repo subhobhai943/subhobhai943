@@ -57,9 +57,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhobhai943&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ### 🎮 Fun Facts
