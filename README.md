@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/logo_SUB.png" width="120" />
-</p>
-
 <h1 align="center">subhadip sarkar</h1>
 
 <p align="center">
@@ -14,6 +10,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square"/>
 </p>
+
+<!-- ASCII art will be auto-injected here by GitHub Actions -->
 
 ---
 
