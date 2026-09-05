@@ -1,4 +1,4 @@
-name: Generate ASCII Art
+name: Generate ASCII GIF
 
 on:
   push:
@@ -21,16 +21,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Pillow
-        run: pip install Pillow
+      - name: Install dependencies
+        run: pip install Pillow imageio numpy
 
-      - name: Generate ASCII and inject into README
-        run: python generate_ascii.py assets/logo_SUB.png
+      - name: Generate ASCII GIF
+        run: python generate_ascii_gif.py assets/logo_SUB.png assets/ascii_logo.gif
 
-      - name: Commit changes
+      - name: Commit GIF output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/ascii.txt README.md
-          git diff --cached --quiet || git commit -m "chore: regenerate ASCII art in README [skip ci]"
+          git add assets/ascii_logo.gif
+          git diff --cached --quiet || git commit -m "chore: regenerate ASCII GIF [skip ci]"
           git push
