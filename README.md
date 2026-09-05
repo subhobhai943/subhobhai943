@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo_SUB.png" width="120" />
+</p>
+
 <h1 align="center">subhadip sarkar</h1>
 
 <p align="center">
@@ -15,7 +19,8 @@
 
 ## about
 
-PCMB student from West Bengal, India. I build fast, test on real users, and cut what doesn't work.  
+BTech CSE student at B.C. Roy Engineering College, Durgapur, West Bengal.  
+I build fast, test on real users, and cut what doesn't work.  
 Small, sharp tools over big vague ideas.
 
 Currently building **[Aniverse AI](https://subhobhai943.xyz)** — a web app with AI integration.  

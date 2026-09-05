@@ -1,0 +1,36 @@
+name: Generate ASCII Art
+
+on:
+  push:
+    paths:
+      - 'assets/logo_SUB.png'
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Pillow
+        run: pip install Pillow
+
+      - name: Generate ASCII art
+        run: python generate_ascii.py assets/logo_SUB.png
+
+      - name: Commit ASCII output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/ascii.txt
+          git diff --cached --quiet || git commit -m "chore: update ASCII art [skip ci]"
+          git push
