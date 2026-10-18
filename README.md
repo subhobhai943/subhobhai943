@@ -141,13 +141,7 @@ Tools         → ASCII art generator, Discord bots, Minecraft server infra, mus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhobhai943&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&bg_color=1a1b27&color=bd93f9&line=6e40c9&point=ffffff&area=true&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/subhobhai943/subhobhai943/output/snake.svg" alt="contribution snake" />
