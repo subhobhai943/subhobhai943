@@ -1,25 +1,21 @@
-<p align="center">
-  <img src="assets/ascii_logo.gif" alt="ASCII logo" width="520"/>
-</p>
-
-<h1 align="center">subhadip sarkar</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:blueviolet&height=220&section=header&text=subhadip%20sarkar&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=code%20%E2%86%92%20ship%20%E2%86%92%20repeat&descAlignY=62&descSize=22&descColor=d6b4fc"/>
 
 <p align="center">
-  <em>code → ship → repeat</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=BD93F9&center=true&vCenter=true&width=650&lines=BTech+CSE+%40+B.C.+Roy+Engineering+College%2C+Durgapur;Building+OS+%7C+CPU+%7C+Compiler+%7C+AI+%E2%80%94+from+scratch;Game+Dev+%7C+Systems+%7C+Cybersecurity+%7C+Web;most+repos+are+private+%C2%B7+dm+if+curious" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://subhobhai943.xyz">🌐 website</a> ·
-  <a href="mailto:sarkarsubhadip604@gmail.com">✉️ email</a> ·
-  <a href="https://in.linkedin.com/in/subhadip-sarkar-489491386">💼 linkedin</a> ·
-  <a href="https://www.instagram.com/subhobhai943">📸 instagram</a> ·
-  <a href="http://www.youtube.com/@SUBtechforge">▶️ youtube</a> ·
-  <a href="https://twitter.com/subhobhai943">🐦 twitter</a> ·
-  <a href="https://discord.com/users/subhobhai943">💬 discord</a>
+  <a href="https://subhobhai943.xyz"><img src="https://img.shields.io/badge/Website-subhobhai943.xyz-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:sarkarsubhadip604@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarkarsubhadip604-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/subhadip-sarkar-489491386"><img src="https://img.shields.io/badge/LinkedIn-subhadip--sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/subhobhai943"><img src="https://img.shields.io/badge/Instagram-subhobhai943-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="http://www.youtube.com/@SUBtechforge"><img src="https://img.shields.io/badge/YouTube-SUBtechforge-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/subhobhai943"><img src="https://img.shields.io/badge/Twitter-subhobhai943-1D9BF0?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://discord.com/users/subhobhai943"><img src="https://img.shields.io/badge/Discord-subhobhai943-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=subhobhai943&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
 ---
@@ -30,7 +26,7 @@ BTech CSE student @ **B.C. Roy Engineering College**, Durgapur, West Bengal.
 
 I don't stop at web apps. I build operating systems, design CPU architectures, write compilers, simulate black holes, and ship game engines — all from scratch.
 
-> building the **SUB Ecosystem** — an interconnected suite of tools I'm architecting from the ground up:  
+> 🔭 building the **SUB Ecosystem** — an interconnected suite of tools architected from the ground up:  
 > `SUB-OS` · `SUB-CPU` · `SUB-AI` · `sub-lang` · `SUB-IDE`
 
 Currently also shipping **[substore.games](https://substore.games)** — a high-performance game currency top-up platform (Mobile Legends, BGMI, Free Fire MAX) with a Go backend running under 25MB RAM.
@@ -40,12 +36,12 @@ Currently also shipping **[substore.games](https://substore.games)** — a high-
 ## ◈ what i build
 
 ```
-AI/ML        → custom model architectures, trained from scratch, no pretrained weights
-Systems      → 64-bit OS (x86_64), custom CPU ISA, Rust IDE, Assembly + C kernels
-Game Dev     → Android 3D racing (OpenGL ES), Godot dungeon crawler, NES 8-bit RPG (MOS 6502)
-Web          → full-stack apps, game storefronts, SIH hackathon platforms
-Cybersecurity→ ethical hacking lab platform, security tooling
-Tools        → ASCII art generator, Discord bots, Minecraft server infra, music player in C
+AI/ML         → custom model architectures, trained from scratch, no pretrained weights
+Systems       → 64-bit OS (x86_64), custom CPU ISA, Rust IDE, Assembly + C kernels
+Game Dev      → Android 3D racing (OpenGL ES), Godot dungeon crawler, NES 8-bit RPG (MOS 6502)
+Web           → full-stack apps, game storefronts, SIH hackathon platforms
+Cybersecurity → ethical hacking lab platform, security tooling
+Tools         → ASCII art generator, Discord bots, Minecraft server infra, music player in C
 ```
 
 ---
@@ -137,12 +133,16 @@ Tools        → ASCII art generator, Discord bots, Minecraft server infra, musi
 ## ◈ stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=subhobhai943&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=subhobhai943&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="155"/>
+  <img src="https://streak-stats.demolab.com/?user=subhobhai943&theme=tokyonight&hide_border=true" height="155"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhobhai943&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </p>
 
 <p align="center">
@@ -153,8 +153,4 @@ Tools        → ASCII art generator, Discord bots, Minecraft server infra, musi
   <img src="https://raw.githubusercontent.com/subhobhai943/subhobhai943/output/snake.svg" alt="contribution snake" />
 </p>
 
----
-
-<p align="center">
-  <sub>most repos are private · dm if curious about something</sub>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:blueviolet&height=120&section=footer"/>
