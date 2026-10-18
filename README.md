@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://subhobhai943.xyz"><img src="https://img.shields.io/badge/Website-subhobhai943.xyz-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:sarkarsubhadip604@gmail.com"><img src="https://img.shields.io/badge/Gmail-sarkarsubhadip604-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:subhadip@subhobhai943.xyz"><img src="https://img.shields.io/badge/Email-subhadip@subhobhai943.xyz-6e40c9?style=for-the-badge&logo=mail.ru&logoColor=white"/></a>
   <a href="https://in.linkedin.com/in/subhadip-sarkar-489491386"><img src="https://img.shields.io/badge/LinkedIn-subhadip--sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/subhobhai943"><img src="https://img.shields.io/badge/Instagram-subhobhai943-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="http://www.youtube.com/@SUBtechforge"><img src="https://img.shields.io/badge/YouTube-SUBtechforge-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
