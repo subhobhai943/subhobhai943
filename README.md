@@ -142,11 +142,11 @@ Tools         → ASCII art generator, Discord bots, Minecraft server infra, mus
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=subhobhai943&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=6&margin-h=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhobhai943&bg_color=1a1b27&color=bd93f9&line=6e40c9&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <p align="center">
